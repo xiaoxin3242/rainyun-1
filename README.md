@@ -9,7 +9,7 @@
 [https://www.rainyun.com/](https://www.rainyun.com/BT_)
 
 ## 雨云优惠码
-- **优惠码**: MzEyMjcw
+- **优惠码**: BT （长期有效）
 - **官网链接**: [点击查看雨云官网最新优惠活动](https://www.rainyun.com/BT_)
 
 ## 雨云优惠活动
