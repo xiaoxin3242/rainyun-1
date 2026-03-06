@@ -1,4 +1,4 @@
-# 2024年最新雨云优惠码-整理汇总雨云优惠活动
+# 2026年最新雨云优惠码-整理汇总雨云优惠活动
 
 ## 雨云介绍
 雨云是一家提供美国云服务器服务的公司，特别强调其洛杉矶一区的2核4G云服务器。该服务器配置优越，采用Xeon® E5v4 CPU，适合高负载应用。雨云以其稳定性和高性能著称，尤其是在洛杉矶数据中心的表现。
@@ -6,18 +6,18 @@
 ![image](https://github.com/kthomasy81/rainyun/assets/167662771/658c70c4-010d-49c1-bed1-413335065e3b)
 
 ## 雨云官网地址
-[https://www.rainyun.com/](https://www.rainyun.com/MzA2MTc2_)
+[https://www.rainyun.com/](https://www.rainyun.com/BT_)
 
 ## 雨云优惠码
 - **优惠码**: MzEyMjcw
-- **官网链接**: [点击查看雨云官网最新优惠活动](https://www.rainyun.com/MzA2MTc2_)
+- **官网链接**: [点击查看雨云官网最新优惠活动](https://www.rainyun.com/BT_)
 
 ## 雨云优惠活动
 以下是雨云提供的洛杉矶一区云服务器的详细配置及优惠价格：
 
 | CPU       | 内存 | 存储    | 带宽     | IP地址   | 价格   | 购买链接                                |
 |-----------|------|---------|----------|---------|--------|----------------------------------------|
-| 2核 Xeon® E5v4 | 4GB | 50GB SSD | 100Mbps | 1个IPv4 | $20/月 | [立即购买](https://www.rainyun.com/MzA2MTc2_) |
+| 2核 Xeon® E5v4 | 4GB | 50GB SSD | 100Mbps | 1个IPv4 | $20/月 | [立即购买](https://www.rainyun.com/BT_) |
 
 ## 雨云评测
 - **Ping 测试**: 雨云的服务器在ping测试中表现良好，丢包率几乎为0，显示其网络连接稳定。
